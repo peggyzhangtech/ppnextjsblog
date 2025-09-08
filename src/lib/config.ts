@@ -1,8 +1,8 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
+    title: "Wenpei Zhang",
+    name: "test",
+    description: "description",
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
     url: "https://xxx.com",
     baseUrl: "https://xxx.com",
@@ -27,7 +27,7 @@ export const config = {
   author: {
     name: "Your Name",
     email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    bio: "我的博客简介",
   },
   social: {
     github: "https://github.com/xxx",
@@ -44,9 +44,14 @@ export const config = {
   navigation: {
     main: [
       { 
-        title: "文章", 
+        title: "博客", 
         href: "/blog",
       },
+      {
+        title: "About Me",
+        href: "/about",
+      },
+
     ],
   },
   seo: {
