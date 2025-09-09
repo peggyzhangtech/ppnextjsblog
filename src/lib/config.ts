@@ -25,9 +25,9 @@ export const config = {
     },
   },
   author: {
-    name: "Your Name",
+    name: "Wenpei Zhang",
     email: "your.email@example.com",
-    bio: "我的博客简介",
+    bio: "TPM in Tech, photographer, pilate enthusiast",
   },
   social: {
     github: "https://github.com/xxx",
@@ -44,11 +44,11 @@ export const config = {
   navigation: {
     main: [
       { 
-        title: "博客", 
+        title: "随笔", 
         href: "/blog",
       },
       {
-        title: "About Me",
+        title: "About",
         href: "/about",
       },
 
