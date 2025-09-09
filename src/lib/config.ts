@@ -61,7 +61,7 @@ export const config = {
     },
     openGraph: {
       type: "website" as const,
-      locale: "zh_CN",
+      locale: "en_US",
     },
     twitter: {
       card: "summary_large_image" as const,

@@ -13,7 +13,7 @@ export default function Home() {
     { name: "赞赏", key: "buyMeACoffee" },
     { name: "X", key: "x" },
     { name: "小红书", key: "xiaohongshu" },
-    { name: "微信公众号", key: "wechat" },
+   // { name: "微信公众号", key: "wechat" },
   ]
     .map(item => ({
       name: item.name,
@@ -44,7 +44,7 @@ export default function Home() {
       </div>
 
       <div className="space-y-4">
-        <h2 className="text-2xl font-bold mb-8">推荐阅读</h2>
+        <h2 className="text-2xl font-bold mb-8">随笔分享</h2>
         <div className="space-y-8">
           {blogs.map((blog: any) => (
             <article key={blog.slug} className="">
