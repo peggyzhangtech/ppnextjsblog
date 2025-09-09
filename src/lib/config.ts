@@ -30,7 +30,7 @@ export const config = {
     bio: "TPM in Tech, photographer, pilate enthusiast",
   },
   social: {
-    github: "https://github.com/xxx",
+    github: "https://github.com/peggyzhangtech",
     x: "https://x.com/xxx",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
